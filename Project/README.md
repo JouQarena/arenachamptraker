@@ -1,4 +1,4 @@
-Youtube Demo "https://youtu.be/5pc8xleMF34"
+
 
 My CS50 Final Project is called LoL Arena Champion Tracker. It’s a web app I built for players of League of Legends who enjoy the Arena game mode and want an easier, more visual way to track their progress. The project brings together web development, API integration, and data management into one interactive platform that balances functionality with a clean, user-friendly design.
 
